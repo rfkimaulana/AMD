@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-3.2620 -1.5875 -10.5028 16.1506 1.3367 13.0202" area="252" targetId="dbc309071f414fd08587936a34b47bc9" name="LANTAI_6_R02_authoring_target" pathAuthoring="dbc309071f414fd08587936a34b47bc9_authoring.3dt" pathOcclusion="dbc309071f414fd08587936a34b47bc9_occlusion.3dt" pathNavMesh="dbc309071f414fd08587936a34b47bc9_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
